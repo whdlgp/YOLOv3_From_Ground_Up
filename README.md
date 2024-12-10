@@ -21,3 +21,5 @@ YOLOv3를 구성하고, 트레이닝 코드도 작성하고, 트레이닝도 해
 [YOLOv3 트레이너](https://choyg.notion.site/YOLOv3-157f94f178418008b261e92aa7fedd5d?pvs=4)
 
 [YOLOv3 트레이닝 해보기](https://choyg.notion.site/YOLOv3-157f94f1784180f09847ec1ff6f6dbf0?pvs=4)
+
+[YOLO v3 ONNX export](https://choyg.notion.site/YOLO-v3-ONNX-export-158f94f1784180eabb3df588f1174ce2?pvs=4)
